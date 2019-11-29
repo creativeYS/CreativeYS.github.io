@@ -1,9 +1,14 @@
 ---
-title: 김성수 담당의 주제
-author: 김성수 담당
+title: PC TUTORIAL/ ArchiDesign M
+subtitle: What do clients want?
+author: 김성수 선임
 layout: post
 icon: fa-mobile-alt
 image: assets/images/pic03.jpg
+profileimage: assets/images/speaker/kss0625.jpg
+hashtags: 
+  - 튜토리얼
+  - ADM
 ---
 Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
 
