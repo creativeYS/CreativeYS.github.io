@@ -13,7 +13,7 @@ order: 3
 4. 가장 많이, 가장 빨리 찾으신 분에게는 <b><font color="red">푸짐한 상품</font></b>이 기다립니다!
 
 <span class="image center">
-    <img src="{{ 'assets\images\event\eventMain.jpg' | relative_url }}"/>
+    <img src="{{ 'assets/images/event/eventMain.jpg' | relative_url }}"/>
     (실루엣 사진으로 교체)
 </span>
 
